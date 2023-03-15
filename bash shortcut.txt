@@ -1,0 +1,18 @@
+    Ctrl + a: Move cursor to the beginning of the line.
+    Ctrl + e: Move cursor to the end of the line.
+    Ctrl + u: Delete all characters to the left of the cursor.
+    Ctrl + k: Delete all characters to the right of the cursor.
+    Ctrl + w: Delete the word to the left of the cursor.
+    Ctrl + y: Paste the last deleted text.
+    Ctrl + c: Cancel the current command.
+    Ctrl + d: Exit the shell (same as typing "exit").
+    Ctrl + l: Clear the screen.
+    Ctrl + r: Search command history.
+    Tab: Autocomplete a command or filename.
+    !!: Execute the last command.
+    !$: Use the last word of the previous command.
+    !<command>: Execute the most recent command that starts with <command>.
+
+These are just a few examples.
+There are many more shortcuts available in Bash.
+You can find a comprehensive list by typing "help" in the terminal and looking under the section "READLINE".
